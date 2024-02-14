@@ -4,6 +4,10 @@ body{
     display: grid;
 }
 
+.giff{
+    width: 300px;
+}
+
 .div-btn{
     display: flex;
     justify-content: space-evenly;
